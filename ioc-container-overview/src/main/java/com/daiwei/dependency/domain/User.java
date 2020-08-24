@@ -1,4 +1,4 @@
-package com.daiwei.dependency.lookup.domain;
+package com.daiwei.dependency.domain;
 
 /**
  * Created by Daiwei on 2020/8/23

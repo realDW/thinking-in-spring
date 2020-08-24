@@ -1,7 +1,7 @@
 package com.daiwei.dependency.lookup;
 
-import com.daiwei.dependency.lookup.annotation.Super;
-import com.daiwei.dependency.lookup.domain.User;
+import com.daiwei.dependency.annotation.Super;
+import com.daiwei.dependency.domain.User;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.ListableBeanFactory;
 import org.springframework.beans.factory.ObjectFactory;

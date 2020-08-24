@@ -5,12 +5,12 @@
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <beans>
-        <bean id="user" class="com.daiwei.dependency.lookup.domain.User">
+        <bean id="user" class="com.daiwei.dependency.domain.User">
             <property name="id" value="1"/>
             <property name="name" value="daiwei"/>
         </bean>
 
-        <bean id="superUser" class="com.daiwei.dependency.lookup.domain.SuperUser" parent="user" primary="true">
+        <bean id="superUser" class="com.daiwei.dependency.domain.SuperUser" parent="user" primary="true">
             <property name="address" value="shanghai"/>
         </bean>
 

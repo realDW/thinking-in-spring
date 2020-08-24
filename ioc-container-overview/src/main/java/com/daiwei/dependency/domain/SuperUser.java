@@ -1,6 +1,6 @@
-package com.daiwei.dependency.lookup.domain;
+package com.daiwei.dependency.domain;
 
-import com.daiwei.dependency.lookup.annotation.Super;
+import com.daiwei.dependency.annotation.Super;
 
 /**
  * Created by Daiwei on 2020/8/23
