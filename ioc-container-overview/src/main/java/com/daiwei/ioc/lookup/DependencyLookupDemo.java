@@ -38,7 +38,6 @@ public class DependencyLookupDemo {
             Map<String, User> beans = listableBeanFactory.getBeansOfType(User.class);
             System.out.println("get beans collection by type -" + beans.toString());
         }
-
     }
 
     private static void lookupByType(BeanFactory beanFactory) {
