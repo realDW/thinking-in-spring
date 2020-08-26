@@ -1,6 +1,6 @@
-package com.daiwei.dependency.repository;
+package com.daiwei.ioc.repository;
 
-import com.daiwei.dependency.domain.User;
+import com.daiwei.ioc.domain.User;
 
 import java.util.Collection;
 

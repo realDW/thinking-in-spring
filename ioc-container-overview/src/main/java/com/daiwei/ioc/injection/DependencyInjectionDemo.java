@@ -1,17 +1,11 @@
-package com.daiwei.dependency.injection;
+package com.daiwei.ioc.injection;
 
-import com.daiwei.dependency.annotation.Super;
-import com.daiwei.dependency.domain.User;
-import com.daiwei.dependency.repository.UserRepository;
+import com.daiwei.ioc.domain.User;
+import com.daiwei.ioc.repository.UserRepository;
 import org.springframework.beans.factory.BeanFactory;
-import org.springframework.beans.factory.ListableBeanFactory;
-import org.springframework.beans.factory.ObjectFactory;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import java.util.Arrays;
 import java.util.Collection;
-import java.util.Collections;
-import java.util.Map;
 
 /**
  *  example of looking up bean by name

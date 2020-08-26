@@ -1,6 +1,6 @@
-package com.daiwei.dependency.domain;
+package com.daiwei.ioc.domain;
 
-import com.daiwei.dependency.annotation.Super;
+import com.daiwei.ioc.annotation.Super;
 
 /**
  * Created by Daiwei on 2020/8/23

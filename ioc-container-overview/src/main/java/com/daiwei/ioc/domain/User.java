@@ -1,4 +1,4 @@
-package com.daiwei.dependency.domain;
+package com.daiwei.ioc.domain;
 
 /**
  * Created by Daiwei on 2020/8/23

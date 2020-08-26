@@ -1,4 +1,4 @@
-package com.daiwei.dependency.annotation;
+package com.daiwei.ioc.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
